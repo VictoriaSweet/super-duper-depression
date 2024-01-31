@@ -1,22 +1,23 @@
-# dreamy-trash
+# Super Duper Depression 
 
 ## Description
-This is a webpage where you can document your daily activities from the hours of 9am-5pmm, it will show past present and future as well as a current date and time box. You can save the data, hit refresh and they will still be stored on th screen. 
+This application is an api for a social media site.   With the ability to create a user, create a thought and post that thought on a social media website, you also have the ability to delete a thought as well as comment on a thought previosly posted by a use. 
 
 ## Installation
-$npm install
+`$npm install`
+run `$npm start` in an integrated terminal in server.js
+
 
 # Usage
-This application is a useful tool used to take notes offline as well as reference the material once the browser is closed and without internet connection. You are able to click the  install button  and download an icon of the application on your home page. 
+This application supplies the back end to a social media website. 
+This application is an api for a social media site.   With the ability to create a user, create a thought and post that thought on a social media website, you also have the ability to delete a thought as well as comment on a thought previosly posted by a use. 
 
 ## Credits
-starter code provided from the repo of https://github.com/coding-boot-camp/cautious-meme
+N/A
 
 ## License
 MIT
 
-## Screenshot of deployed application
-![screenshot of the deployed application](image.png)
 
 ### Questions?
  <a href="mailto:sweet.victoria1218@gmail.com">Email Me</a>
